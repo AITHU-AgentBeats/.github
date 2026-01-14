@@ -1,6 +1,14 @@
 ## Hi there 👋
 
 Welcome to the AITHU team site for the Agent Beats Hackathon!
+
+We have a green agent and a purple agent for the Hackathon based on a Finance Agent paper. https://arxiv.org/pdf/2508.00828
+
+
+A youtube video (ten minutes in length) describing the Finance Agent paper is located here:
+https://youtu.be/uTfC3ZCMZa0
+
+
 <!--
 
 **Here are some ideas to get you started:**
